@@ -61,12 +61,11 @@ c) i <j + 5 > j ** 4
 
 9) How many types of operators in Python?
 
---> Arithmetic operators 
+-->Arithmetic operators 
    Assignment operators
    Comparison operators
    Identity operators
    Membership operators 
    Bitwise operators
-
-Logical operators
+   Logical operators
   
