@@ -1,0 +1,17 @@
+p=4
+
+V=2
+
+170 Bytes
+
+P
+
+print("Addtion =", p+v)
+
+print("Substraction=", p-v)
+
+print("Multiplication =", p*v) print("Division =", p/v)
+
+print("Mod=", p%v)
+
+print("Power =", p**v)
