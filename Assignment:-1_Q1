@@ -1,0 +1,8 @@
+# Question No.1 Reverse a String "Pytjom Skills"
+
+l = ['P','Y','T','H','O','N','_','S','K','I','L','L','S']
+
+s = ''
+for x in reversed(l):
+    s += x
+print(s)
