@@ -17,15 +17,15 @@ parser= argparse.ArgumentParser(description=desp ,usage=ug)
 #Accepting Argument from user
 parser.add_argument("-d","--domain",help="Enter Domain Name for Footprinting..")
 
-parser.add_argument("-s","--shodan",help="Enter the IP for Shodan Search..")
+#parser.add_argument("-s","--shodan",help="Enter the IP for Shodan Search..")
 
 #Fetch Argument to the object
 args = parser.parse_args()
 domain = args.domain
-ip = args.shodan
+#ip = args.shodan
 
 #printing Domain Name and Shodan
-print(f"[+] Domain : {domain}  and  IP : {ip}")
+#print(f"[+] Domain : {domain}  and  IP : {ip}")
 
 
 #whois Module
